@@ -1,6 +1,10 @@
 ~$
-.bak$
+\.bak$
+\.old$
 \#
 .git*
 blib*
-Makefile
+Makefile$
+\.DS_Store
+\ANet-
+.releaserc
